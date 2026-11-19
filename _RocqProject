@@ -1,0 +1,4 @@
+-Q theories SortingExample
+theories/SortSpec.v
+theories/MergeSort.v
+theories/MergeSortCorrect.v
